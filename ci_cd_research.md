@@ -9,7 +9,7 @@ CI Continuous Integration (CI (focuses on integrating code changes and running a
 
 **Enhanced Collaboration:** CI/CD encourages collaboration among team members. Developers frequently integrate their work, fostering teamwork and communication. 
 
-#### What is Jenkins?
+#### What is Jenkins??
 
 Jenkins: tool that automates the building, testing and deployment of code. 
 
