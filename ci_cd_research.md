@@ -16,3 +16,13 @@ Jenkins: tool that automates the building, testing and deployment of code.
 So imagine if you had to do a number of task to build a software like running and testing code, deploying the finished product. Doing this manually would be repetitive and time consuming.
 
 Jenkins automates these tasks for you. It helps software developers save time and ensures the software is built, tested, deployed consistently, reducing errors and speeds up the SDLC.
+
+#### What are the Stages to Jenkins?
+- Create a Jenkins Job
+- Build a Pipeline in Jenkins
+- Link the Jobs in Jenkins
+
+#### Alternatives to Jenkins
+- circleci (only supports Linux and macOS)
+- Bamboo
+- GitLab
