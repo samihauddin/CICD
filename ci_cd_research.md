@@ -1,5 +1,5 @@
 #### What is CI/CD?
-Continuous Integration (CI (focuses on integrating code changes and running automated tests))/Continuous Deployment (CD)(automatically deploys these code changes to production.
+CI Continuous Integration (CI (focuses on integrating code changes and running automated tests))/Continuous Deployment (CD)(automatically deploys these code changes to production.
 
 #### Why use it?
 
