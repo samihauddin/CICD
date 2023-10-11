@@ -3,10 +3,19 @@
 **Step 1.** Log In to Jenkins: Open your web browser and navigate to your Jenkins server's URL. <br>
 **Step 2.** Log in using your credentials. <br>
 **Step 3.** Create a New Job: From the Jenkins dashboard, click on "New Item" or "Create New Job" on the left-hand side. <br>
+
+![alt text](new.png)
+
 **Step 4.** Enter a name for your job and select the type of job you want to create. <br>
-**Step 5.** Check `Discard old builds` <br>
-**Step 6.** `Max # of builds to keep: 3` <br>
-**Step 7.** Select Freestyle project <br>
+**Step 5.** Select Freestyle project <br>
+
+![alt text](name.png)
+
+**Step 6.** Check `Discard old builds` <br>
+**Step 7.** `Max # of builds to keep: 3` <br>
+
+![alt text](old.png)
+
 **Step 8.** Press ok <br>
 
 ### Testing Jenkins - does Jenkins have the env required for our deployment?
