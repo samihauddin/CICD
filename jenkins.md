@@ -1,3 +1,5 @@
+## Navigating Jenkins
+
 ### Creating a job in Jenkins
 
 **Step 1.** Log In to Jenkins: Open your web browser and navigate to your Jenkins server's URL. <br>
