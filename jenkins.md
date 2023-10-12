@@ -1,6 +1,6 @@
 ## Continuous Integration/Continuous Deployment 
 
-![alt text](cicd.png)
+![alt text](CICD.png)
 
 The diagram above displays the CI/CD Pipeline. 
 - CI refers to **automating the integration of code changes**. For example, if a group of developers are making changes to a code, CI automatically tests these codes to make sure it doesn't break anything. This helps catch bugs and issues early, leading to more stable and reliable software.
