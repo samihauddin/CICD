@@ -41,7 +41,7 @@ Step 5. Enter `Save` <br>
 
 **Step 1.** Locate the job by using the dropdown and select `Build now` <br>
 
-![alt text](buildnow.png)
+![alt text](Buildnow.png)
 
 ![alt text](build.png)
 
