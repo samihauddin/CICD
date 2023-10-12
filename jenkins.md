@@ -1,8 +1,17 @@
+## Continuous Integration/Continuous Deployment 
+
+![alt text](cicd.png)
+
+The diagram above displays the CI/CD Pipeline. 
+- CI refers to **automating the integration of code changes**. For example, if a group of developers are making changes to a code, CI automatically tests these codes to make sure it doesn't break anything. This helps catch bugs and issues early, leading to more stable and reliable software.
+- CD refers to **automating these tested and approved changes to the live environment**. 
+- Together CI/CD creates a pipeline that takes code from the developers machines to the live environment with **minimal manual intervention.** 
+
 ## Navigating Jenkins
 
 ### Creating a job in Jenkins
 
-**Step 1.** Log In to Jenkins: Open your web browser and navigate to your Jenkins server's URL. <br>
+**Step 1.** Log In to Jenkins <br>
 **Step 2.** Log in using your credentials. <br>
 **Step 3.** Create a New Job: From the Jenkins dashboard, click on "New Item" or "Create New Job" on the left-hand side. <br>
 
@@ -32,20 +41,14 @@ Step 5. Enter `Save` <br>
 
 **Step 1.** Locate the job by using the dropdown and select `Build now` <br>
 
+![alt text](buildnow.png)
+
 ![alt text](build.png)
 
 **Step 2**. Navigate to the # use the drop down and select `console output` <br>
 **Step 3.** You will now be able to see the env required for deployment 
 
-### Triggering the job automatically
+### Configuring Job already made
 
-**Step 1.** Select your job <br>
-**Step 2.** Navigate to `Configure`
-
-![alt text](config.png)
-
-Step 3. Navigate to `Post-build Actions` <br>
-Step 4. Enter the name of your second job <br>
-Step 5. Check `Trigger only if build is stable` <br>
-Step 6. Then `Save` <br>
-
+**Step 1:** Select your job <br>
+**Step 2:** Select `configure`
