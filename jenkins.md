@@ -1,6 +1,6 @@
 ## Continuous Integration/Continuous Deployment 
 
-![alt text](CICD.png)
+![alt text](Images/CICD.png)
 
 The diagram above displays the CI/CD Pipeline. 
 - CI refers to **automating the integration of code changes**. For example, if a group of developers are making changes to a code, CI automatically tests these codes to make sure it doesn't break anything. This helps catch bugs and issues early, leading to more stable and reliable software.
@@ -15,17 +15,17 @@ The diagram above displays the CI/CD Pipeline.
 **Step 2.** Log in using your credentials. <br>
 **Step 3.** Create a New Job: From the Jenkins dashboard, click on "New Item" or "Create New Job" on the left-hand side. <br>
 
-![alt text](new.png)
+![alt text](Images/new.png)
 
 **Step 4.** Enter a name for your job and select the type of job you want to create. <br>
 **Step 5.** Select Freestyle project <br>
 
-![alt text](name.png)
+![alt text](Images/name.png)
 
 **Step 6.** Check `Discard old builds` <br>
 **Step 7.** `Max # of builds to keep: 3` <br>
 
-![alt text](old.png)
+![alt text](Images/old.png)
 
 **Step 8.** Press ok <br>
 
@@ -41,9 +41,9 @@ Step 5. Enter `Save` <br>
 
 **Step 1.** Locate the job by using the dropdown and select `Build now` <br>
 
-![alt text](Buildnow.png)
+![alt text](Images/Buildnow.png)
 
-![alt text](build.png)
+![alt text](Images/build.png)
 
 **Step 2**. Navigate to the # use the drop down and select `console output` <br>
 **Step 3.** You will now be able to see the env required for deployment 
