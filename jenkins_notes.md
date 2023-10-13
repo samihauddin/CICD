@@ -157,22 +157,20 @@ git branch dev
 
 **Step 3:** Allowing Jenkins to SSH into EC2 Instance
 
-- Set up SSH access for Jenkins to your EC2 instance. 
-
-**Step 4:** Add the -y Command for SSH Access
+- Set up SSH access for Jenkins to your EC2 instance.
 
 - Add the -y commands so you don’t need to manually allow the SSH into your instance.
 
-**Step 5:** Copying the App Code
+**Step 4:** Copying the App Code
 
-**Step 6:** cd into the app folder
+**Step 5:** cd into the app folder
 
-**Step 7:** Run npm install
+**Step 6:** Run npm install
 
-**Step 8:** Install Node.js
+**Step 7:** Install Node.js
 
-**Step 9:** Verify the Code via SSH
+**Step 8:** Verify the Code via SSH
 
-**Step 10:** Modify the Application Name
+**Step 9:** Modify the Application Name - Altering the name of `Sparta` to Samiha
 
 
