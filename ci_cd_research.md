@@ -1,4 +1,4 @@
-#### What is CI/CD?
+#### What is CI/CD? testing
 CI Continuous Integration (CI (focuses on integrating code changes and running automated tests))/Continuous Deployment (CD)(automatically deploys these code changes to production.
 
 #### Why use it?
@@ -26,5 +26,3 @@ Jenkins automates these tasks for you. It helps software developers save time an
 - circleci (only supports Linux and macOS)
 - Bamboo
 - GitLab
-
-testing 1
