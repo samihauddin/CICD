@@ -1,4 +1,4 @@
-#### What is CI/CD? testttt
+#### What is CI/CD? testtt
 CI Continuous Integration (CI (focuses on integrating code changes and running automated tests))/Continuous Deployment (CD)(automatically deploys these code changes to production.
 
 #### Why use it?
